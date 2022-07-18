@@ -4,7 +4,6 @@ In the future I would like to learn about performing automated testing and techn
 
 You can reach me on:
 - twitter: @_rogal
-- facebook: https://www.facebook.com/wercyngetorx/
 - Whatsapp or Signal (Signal is highly preferred): +48 536 781 755
 
 <!---
